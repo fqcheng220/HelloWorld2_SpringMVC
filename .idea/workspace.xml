@@ -6,7 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42d58cef-6d5d-43e5-ae77-e30a677f5652" name="Default" comment="" />
+    <list default="true" id="42d58cef-6d5d-43e5-ae77-e30a677f5652" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/HelloWorld2_SpringMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/HelloWorld2_SpringMVC_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld2_SpringMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld2_SpringMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/classes/com/fqcheng220/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/classes/com/fqcheng220/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HelloWorld2_SpringMVC_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld2_SpringMVC/com/fqcheng220/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld2_SpringMVC/com/fqcheng220/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,34 +30,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="-627">
+              <caret line="8" column="98" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            <state relative-caret-position="208">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MappingJackson2HttpMessageConverter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -52,8 +60,8 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="112" />
+            <state relative-caret-position="326">
+              <caret line="20" column="71" lean-forward="true" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,51 +69,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestMapping.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequestBody.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequestParam.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/result/CommonResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FrameworkServlet.class" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="278" column="63" lean-forward="true" selection-start-line="278" selection-start-column="63" selection-end-line="278" selection-end-column="63" />
+            <state relative-caret-position="166">
+              <caret line="400" selection-start-line="400" selection-end-line="400" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="459" selection-start-line="459" selection-end-line="459" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnotationMethodHandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="255" selection-start-line="255" selection-end-line="255" />
               <folding>
-                <element signature="e#5267#5268#0" expanded="true" />
-                <element signature="e#5307#5308#0" expanded="true" />
+                <element signature="e#9784#9785#0" expanded="true" />
+                <element signature="e#9829#9830#0" expanded="true" />
+                <element signature="e#10320#10321#0" expanded="true" />
+                <element signature="e#10394#10395#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandlerMethodInvoker.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="235" column="32" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpHeaders.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="347" column="21" selection-start-line="347" selection-start-column="21" selection-end-line="347" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -122,21 +141,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>configureAndRefreshWebApplicationContext</find>
-      <find>ContextLoaderListener</find>
-      <find>initWebApplicationContext</find>
-      <find>processRequest</find>
-      <find>doService</find>
-      <find>handlerMapping</find>
-      <find>detectAllHandlerMappings</find>
-      <find>handlerMappings</find>
-      <find>initHandlerMappings</find>
-      <find>onRefresh</find>
-      <find>initStrategies</find>
-      <find>contextConfigLocation</find>
-      <find>contextClass</find>
-      <find>application/x-www-form-urlencoded</find>
+      <find>resolvePrimitiveClassName</find>
+      <find>gsonPresent</find>
+      <find>getMessageConverters</find>
+      <find>webBindingInitializer</find>
+      <find>contentNegotiationManager</find>
+      <find>handlerMethods</find>
+      <find>getHandlerAdapter</find>
+      <find>messageConverters</find>
+      <find>defaultStrategies</find>
+      <find>handlerAdapters</find>
+      <find>class</find>
+      <find>property</find>
+      <find>Indenter</find>
+      <find>mappingJacksonHttpMessageConverter</find>
+      <find>jack</find>
+      <find>DefaultPrettyPrinter</find>
+      <find>supportedMediaTypes</find>
+      <find>fast</find>
+      <find>refresh</find>
+      <find>cancelling refresh attempt</find>
+      <find>com.test.TestJar</find>
+      <find>MediaTypeNo</find>
+      <find>resolveRequestBody</find>
+      <find>readWithMessageConverters</find>
+      <find>requestBodyFound</find>
+      <find>login2</find>
+      <find>getModelAndView</find>
+      <find>Missing</find>
+      <find>resolveRequestParam</find>
+      <find>paramName</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,9 +182,10 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/eastmoney/fqcheng220/result/CommonResult.java" />
         <option value="$PROJECT_DIR$/src/com/eastmoney/fqcheng220/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/com/fqcheng220/bean/User.java" />
+        <option value="$PROJECT_DIR$/src/com/fqcheng220/result/CommonResult.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/com/fqcheng220/result/CommonResult.java" />
         <option value="$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java" />
       </list>
     </option>
@@ -168,17 +207,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-69" />
-    <option name="y" value="144" />
+    <option name="x" value="332" />
+    <option name="y" value="106" />
     <option name="width" value="1936" />
-    <option name="height" value="1100" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,31 +226,6 @@
             <path>
               <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld2_SpringMVC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld2_SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld2_SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fqcheng220" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld2_SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fqcheng220" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld2_SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fqcheng220" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
@@ -223,23 +238,35 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloWorld2_SpringMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Dispatch&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;ContextLoaderListener&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class&#10;ContextLoaderLis&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Annotation&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class&#10;DefaultPrettyPrinter&#9;PSI&#9;JAVA://com.fasterxml.jackson.core.util.DefaultPrettyPrinter&#10;MappingJackson2HttpMessageConverter&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.class&#10;XmlWeb&#9;PSI&#9;JAVA://org.springframework.web.context.support.XmlWebApplicationContext&#10;FastJsonHttpMessageConverter&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/fastjson-1.2.9.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.class&#10;HandlerInterceptor&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerInterceptor&#10;Disp&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;Annota&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class&#10;DispatchSe&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;AnnotationDri&#9;PSI&#9;JAVA://org.springframework.web.servlet.config.AnnotationDrivenBeanDefinitionParser&#10;MappingJacksonHttpMessageConverter&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.class&#10;Dispatch&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;ContextLoaderListener&#9;FILE&#9;jar://D:/MyWork/Java/Projects/HelloWorld2_SpringMVC/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class&#10;ContextLoaderLis&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jackson-databind-2.7.4.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.45172414" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyWork\Java\Projects\HelloWorld2_SpringMVC\lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -445,12 +472,13 @@
       <option name="presentableId" value="Default" />
       <updated>1544508125254</updated>
       <workItem from="1544508129309" duration="2730000" />
-      <workItem from="1544511266274" duration="9396000" />
+      <workItem from="1544511266274" duration="36268000" />
+      <workItem from="1544611220678" duration="7422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12126000" />
+    <option name="totallyTimeSpent" value="46420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -463,23 +491,22 @@
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.114583336" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24017003" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45531914" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.52081215" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4314559" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42659575" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14270833" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14479166" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -488,6 +515,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.114583336" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,258 +562,466 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>451</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>459</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>461</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>255</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>493</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>619</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>624</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>617</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>676</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>707</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>725</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>582</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>601</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class</url>
+          <line>219</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>207</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class</url>
+          <line>606</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class</url>
+          <line>595</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="29" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>inputMessage.getHeaders()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inputMessage.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>.getContentType();         if (contentType == null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var7</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>beanName</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mbd.getBeanClassName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mbd.getResourceDescription()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getMethodResolver(handler)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>AnnotationMethodHandlerAdapter.this.getMessageConverters()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="313">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HandlerMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="95" column="42" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/config/AnnotationDrivenBeanDefinitionParser.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        <state relative-caret-position="165">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java">
+    <entry file="jar://$PROJECT_DIR$/../../../Android/Tools/jdk8/src.zip!/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/result/CommonResult.java">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.3.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="638" column="4" selection-start-line="638" selection-start-column="4" selection-end-line="638" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1222">
-          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
-          <folding>
-            <element signature="e#6201#6202#0" expanded="true" />
-            <element signature="e#6245#6246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5538">
-          <caret line="280" column="9" selection-start-line="280" selection-start-column="9" selection-end-line="280" selection-end-column="9" />
-          <folding>
-            <element signature="e#5267#5268#0" expanded="true" />
-            <element signature="e#5307#5308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ContextLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1066">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HttpServletBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/WebApplicationContext.class">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_9_4.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_core_2_9_4.xml" />
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.9.7.jar!/com/fasterxml/jackson/core/JsonGenerator.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/Jackson2ObjectMapperBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="58" column="89" selection-start-line="58" selection-start-column="89" selection-end-line="58" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_9_7.xml" />
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.7.jar!/com/fasterxml/jackson/databind/ObjectMapper.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.9.7.jar!/com/fasterxml/jackson/core/util/DefaultPrettyPrinter.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/AbstractHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/AbstractGenericHttpMessageConverter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ContextLoader.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1066">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        <state relative-caret-position="52">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HttpServletBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="65" column="43" lean-forward="true" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HandlerMapping.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/ListableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactoryUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="126" column="25" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/event/ApplicationContextEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="120" column="37" lean-forward="true" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
-          <folding>
-            <element signature="e#6201#6202#0" expanded="true" />
-            <element signature="e#6245#6246#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-766">
+          <caret line="1029" column="73" selection-start-line="1029" selection-start-column="73" selection-end-line="1029" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/support/XmlWebApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar!/com/fasterxml/jackson/core/util/DefaultPrettyPrinter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5564">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.7.4.jar!/com/fasterxml/jackson/core/type/ResolvedType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/TestJar.jar!/Users/Administrator/Desktop/TestJar.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.7.4.jar!/com/fasterxml/jackson/core/util/DefaultPrettyPrinter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/TestJar.jar!/TestJar.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/fastjson-1.2.9.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/ConfigurableWebApplicationContext.class">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/TestJar.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="182">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="278" column="63" lean-forward="true" selection-start-line="278" selection-start-column="63" selection-end-line="278" selection-end-column="63" />
-          <folding>
-            <element signature="e#5267#5268#0" expanded="true" />
-            <element signature="e#5307#5308#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/result/CommonResult.java">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="546">
+          <caret line="942" selection-start-line="942" selection-end-line="942" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="277">
+          <caret line="248" column="5" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/TestJar.jar!/com/test/TestJar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/HelloWorld2_SpringMVC_war_exploded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld2_SpringMVC.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="-627">
+          <caret line="8" column="98" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="98" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="70" />
+        <state relative-caret-position="208">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="202">
+          <caret line="347" column="21" selection-start-line="347" selection-start-column="21" selection-end-line="347" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="67">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="166">
+          <caret line="400" selection-start-line="400" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+          <folding>
+            <element signature="e#9784#9785#0" expanded="true" />
+            <element signature="e#9829#9830#0" expanded="true" />
+            <element signature="e#10320#10321#0" expanded="true" />
+            <element signature="e#10394#10395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="459" selection-start-line="459" selection-end-line="459" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="235" column="32" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fqcheng220/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="112" />
+        <state relative-caret-position="326">
+          <caret line="20" column="71" lean-forward="true" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -802,7 +1038,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
                 <option value="0.5" />
               </list>
             </option>
@@ -815,7 +1051,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
               </list>
             </option>
           </splitter-proportions>
@@ -826,7 +1062,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
               </list>
             </option>
           </splitter-proportions>
@@ -838,7 +1074,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
               </list>
             </option>
           </splitter-proportions>
@@ -850,7 +1086,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
               </list>
             </option>
           </splitter-proportions>
@@ -870,11 +1106,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Spring MVC-4.3.18.RELEASE</last-edited>
+          <last-edited>jackson-annotations-2.7.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45172414" />
               </list>
             </option>
           </splitter-proportions>
